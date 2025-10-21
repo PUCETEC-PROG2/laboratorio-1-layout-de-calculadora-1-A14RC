@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: ANDRÉS RICARDO ROMERO CASTILLO
+- **Carrera**: DESARROLLO DE SOFTWARE
+- **Fecha de entrega**: 
 
 ---
 
